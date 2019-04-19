@@ -1,21 +1,16 @@
-.myself {
-	height: auto;
+.intro {
 	float: left;
-	background-color: brown;
-	width: 1293px; 
+	background-color: orange;
+	width: 1245px;
+	height: 80px;
 }
-.myself h1 {
-	text-align: center;
-	font-style: italic;
-	font-size: 60px;
+.intro h1 {
+	color: blue;
+	margin-left: 70px;
 }
-img {
-	margin-left: 535px;
-	border: 5px dashed blue;
-	margin-top: -30px;
-}
-ol {
-	font-family: serif;
-	font-size: large;
-	font-style: oblique;
+.intro img {
+	float: right;
+	margin-right: 140px;
+	margin-top: 20px;
+	border: 3px solid blue;
 }
