@@ -1,0 +1,10 @@
+.myself {
+	height: auto;
+	float: left;
+	background-color: brown;
+	width: 1293px; 
+}
+.myself h1 {
+	text-align: center;
+	font-style: italic;
+}
