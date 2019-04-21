@@ -8,9 +8,25 @@
 	color: blue;
 	margin-left: 70px;
 }
-.intro img {
+.self img {
 	float: right;
-	margin-right: 140px;
-	margin-top: 20px;
+	margin-right: 240px;
+	margin-top: 1px;
 	border: 3px solid blue;
+	width: 245px;
+	height: 355px;
+	background-color: blue;
+}
+ol {
+	font-size: 25px;
+	line-height: 2;
+}
+.self {
+	float: right;
+	background-color: blue;
+	height: auto;
+	margin-right: 240px
+	width:245px;
+	margin-top: 1px;
+	
 }
