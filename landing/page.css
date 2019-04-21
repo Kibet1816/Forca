@@ -31,7 +31,7 @@ ol {
 	
 }
 em {
-	color: green;
+	color: red;
 }
 .self p {
 	line-height: 3em;
@@ -40,5 +40,9 @@ em {
 	float: right;
 	background-color: red;
 	width: 500px;
-	margin-top: -275px;
+	margin-top: -475px;
+	height: 430px;
+}
+.venture ul {
+	line-height: 5em;
 }
