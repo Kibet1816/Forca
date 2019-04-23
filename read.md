@@ -10,7 +10,7 @@
                    1.Eye-catching floats of various colors,
                    2.Well documented texts ,and
                    3.A smashing photo of thee writer.
-#### link {1.Go to https://github.com/Kibet1816/Forca/alternative}
+#### link {1.Go to https://github.com/Kibet1816/Forca/tree/alternative}
 
 
 MIT License
