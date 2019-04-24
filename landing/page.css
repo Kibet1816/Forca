@@ -41,4 +41,8 @@ em {
 	background-color: red;
 	width: 500px;
 	margin-top: -275px;
+	height: 435px;
+}
+.venture ul {
+	line-height: 5em;
 }
